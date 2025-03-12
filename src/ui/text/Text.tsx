@@ -1,4 +1,4 @@
-import { ElementType, ReactNode } from 'react';
+import { ElementType, ReactNode, CSSProperties } from 'react';
 import { clsx } from 'clsx';
 import { FontFamiliesClasses } from 'src/constants/articleProps';
 
